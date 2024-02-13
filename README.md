@@ -4,7 +4,7 @@
 Your login name: altschool i.e., home directory /home/altschool. The home directory contains the following sub-directories: code, tests, personal, misc Unless otherwise specified, you are running commands from the home directory.
 
 `A. Setup workspace`
-![Preliminary 'A_1' setups](./screenshots/A_1.png)
+![Preliminary 'A_1' setups](./screenshots/A_1.PNG)
 ![Preliminary 'A_2' setups](./screenshots/A_2.PNG)
  
 `a. Change directory to the tests directory using absolute pathname`
